@@ -1,11 +1,11 @@
-# BOWER-BI-Assignment
-![](Screenshot1.png)
+## BOWER-BI-Assignment
+#*ASSIENMENT STEPS*
 
-![](Screenshot2.png)
+![](Screenshot%201.png)
 
-![](Screenshot3.png)
+![](Screenshot%202.png)
 
-![](Screenshot4.png)
+![](Screenshot%203.png)
 
-
+![](Screenshot%204.png)
 
