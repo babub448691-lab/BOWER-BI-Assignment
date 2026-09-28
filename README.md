@@ -1,2 +1,5 @@
 # BOWER-BI-Assignment
-![Project Screenshot](photo-name.png)
+!BI-Assignment Screenshot](photo-name.png)
+!BI-Assignment Screenshot](photo-name.png)
+!BI-Assignment Screenshot](photo-name.png)
+!BI-Assignment Screenshot](photo-name.png)
