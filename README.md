@@ -1,6 +1,4 @@
 # BOWER-BI-Assignment
-![Project Screenshot](photo.png)
-![](image.png)
-![](image.png)
-![](image.png)
-![](image.png)
+![Screenshot 1.png](photo.png)
+
+
