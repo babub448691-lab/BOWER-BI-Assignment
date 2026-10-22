@@ -1,4 +1,4 @@
-## BOWER-BI-Assignment
+## POWER-BI-Assignment
 #*ASSIENMENT STEPS*
 
 ![](Screenshot%201.png)
